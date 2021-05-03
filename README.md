@@ -6,9 +6,7 @@
 
 Названия папки | Краткое содежание проекта 
 --- | --- 
-telecom analys 
-and statistical
-test    | так же 
+telecom analys and statistical test    | так же 
 1 | 2 
 
 Названия папки | Краткое содежание проекта 
